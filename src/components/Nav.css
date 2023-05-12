@@ -1,0 +1,18 @@
+.nav{
+ top: 0;
+ position: fixed;
+ width: 100%;
+ padding-top: 0.3rem;
+ padding-left: 0.6rem;
+ height: 30px;
+ z-index: 1;
+ background-color: rgba(0, 0, 0, 0);
+}
+.black_nav{
+ background-color: black;
+ height: 60px;
+}
+.nav_img{
+ background-color: rgba(0, 0, 0, 0);
+
+}
